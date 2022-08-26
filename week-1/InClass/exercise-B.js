@@ -1,0 +1,10 @@
+console.log("Halo, dunia! // Indonesian");
+console.log("Ciao, mondo! // Italian");
+console.log("Hola, mundo! // Spanish");
+console.log("Hello World! // english");
+console.log("مرحبا بالعالم");
+console.log("Hallo Welt! // Aleman");
+console.log("Witaj świecie! // Polaco");
+console.log("Γειά σου Κόσμε! // Griego");
+console.log("Привет, мир!! // Ruso");
+console.log("hola món! // Catalan");
